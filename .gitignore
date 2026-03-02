@@ -1,0 +1,21 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+frontend/node_modules/
+
+# Database
+backend/rbac.db
+
+# Pytest
+.pytest_cache/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
